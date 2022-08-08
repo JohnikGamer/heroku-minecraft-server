@@ -130,10 +130,8 @@ chmod +x dropbox_uploader.sh
 Your Config file `Config.txt` should Contain the Following
 
 ```CONFIGFILE_VERSION=2.0
-heroku OAUTH_APP_KEY="	
-h2wytfd737i72f2"
-heroku OAUTH_APP_SECRET="	
-wq5r6lheilgw44g"
+heroku OAUTH_APP_KEY="h2wytfd737i72f2"
+heroku OAUTH_APP_SECRET="wq5r6lheilgw44g"
 heroku OAUTH_REFRESH_TOKEN="sl.BM-Xo30P_Rt4IWjz74bD42Z8_jMxVyb6hVmMlB29eacbgKM_DrDmu_-bQNCLTQ0RzjtmePNylSk5O6Dtb3a2tx7jcqGx24-U8SwPdI_ENjJro24BycbA3rNOWnzp17pMoXJtK3s"
 ```
 
