@@ -138,9 +138,9 @@ heroku OAUTH_REFRESH_TOKEN="sl.BM-Xo30P_Rt4IWjz74bD42Z8_jMxVyb6hVmMlB29eacbgKM_D
 Set the `DROPBOX_APP_KEY`, `DROPBOX_APP_SECRET` and `DROPBOX_ACCESS_TOKEN` Config Variables to these Values appropriately
 
 ```
-heroku config:set DROPBOX_APP_KEY="Your-App-Key"
-heroku config:set DROPBOX_APP_SECRET="Your-App-Secret"
-heroku config:set DROPBOX_ACCESS_TOKEN="Your-Refresh-Token"
+heroku config:set DROPBOX_APP_KEY="h2wytfd737i72f2"
+heroku config:set DROPBOX_APP_SECRET="wq5r6lheilgw44g"
+heroku config:set DROPBOX_ACCESS_TOKEN="sl.BM-Xo30P_Rt4IWjz74bD42Z8_jMxVyb6hVmMlB29eacbgKM_DrDmu_-bQNCLTQ0RzjtmePNylSk5O6Dtb3a2tx7jcqGx24-U8SwPdI_ENjJro24BycbA3rNOWnzp17pMoXJtK3s"
 ```
 
 <details><summary><b>Amazon S3 [OPTIONAL] (Paid Alternative to Permanently Save/Load your World)</b></summary>
